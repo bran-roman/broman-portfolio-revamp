@@ -3,11 +3,10 @@
     "",
     "\\Fonts",
     "\\Source Code",
-    "\\Source Code\\nexus",
-    "\\Source Code\\nexus\\assets",
-    "\\Source Code\\nexus\\css",
-    "\\Source Code\\nexus\\js"
+    "\\Source Code\\code",
+    "\\Source Code\\code\\css",
+    "\\Source Code\\code\\js"
   ],
-  "SelectedNode": "\\Source Code\\nexus",
+  "SelectedNode": "\\Source Code\\code\\css\\services.css",
   "PreviewInSolutionExplorer": false
 }
