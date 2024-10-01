@@ -18,9 +18,9 @@ nav {
 }
 
 .logo img {
-  width: 36px;
+  width: 50px;
   filter: invert(1);
-  border-radius: 10px;
+  border-radius: 20px;
 }
 
 .ctas {
@@ -85,8 +85,8 @@ nav {
 }
 
 .contact {
-  background: #ff6b00;
-  background: linear-gradient(to right, #fc002d, #ff6b00);
+    background: #00b79d;
+    background: linear-gradient(to right, #202020, #00b79d);
 }
 
 .contact a {

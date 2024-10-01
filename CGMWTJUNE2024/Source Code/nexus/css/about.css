@@ -22,11 +22,13 @@
   flex: 4;
 }
 
-.about-col h2 {
-  width: 85%;
-  color: rgba(255, 255, 255, 0.125);
-  transition: color 0.3s;
-}
+    .about-col h2 {
+        width: 85%;
+        color: rgba(255, 255, 255, 0.125);
+        transition: color 0.3s;
+        font-family: Oswald;
+        text-transform: uppercase;
+    }
 
 .about-copy {
   width: 50%;

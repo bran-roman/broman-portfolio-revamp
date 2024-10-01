@@ -10,13 +10,13 @@
 }
 
 .progress-bar {
-  position: absolute;
-  bottom: 0;
-  width: 0%;
-  height: 100%;
-  background: #ff6b00;
-  background: linear-gradient(to right, #fc002d, #ff6b00);
-  clip-path: polygon(0% 80%, 100% 80%, 100% 100%, 0% 100%);
+    position: absolute;
+    bottom: 0;
+    width: 0%;
+    height: 100%;
+    background: #00b79d;
+    background: linear-gradient(to right, #202020, #00b79d);
+    clip-path: polygon(0% 80%, 100% 80%, 100% 100%, 0% 100%);
 }
 
 #loader-copy-1,

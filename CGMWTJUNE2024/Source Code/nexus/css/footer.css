@@ -107,15 +107,15 @@ footer {
 }
 
 .form-col:nth-child(2) {
-  position: relative;
-  flex: 2;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background: #ff6b00;
-  background: linear-gradient(to right, #fc002d, #ff6b00);
-  border-radius: 8px;
+    position: relative;
+    flex: 2;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #00b79d;
+    background: linear-gradient(to right, #202020, #00b79d);
+    border-radius: 8px;
 }
 
 .submit-btn h3 {
