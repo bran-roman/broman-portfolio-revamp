@@ -25,7 +25,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 230,
+          "DockedWidth": 273,
           "SelectedChildIndex": 61,
           "Children": [
             {
@@ -280,7 +280,7 @@
               "RelativeDocumentMoniker": "Source Code\\code\\index.html",
               "ToolTip": "D:\\FileHistory\\roman\\DESKTOP-G5BNVEG\\Data\\C\\Users\\roman\\bran-roman.github.io - copy2\\broman-portfolio-revamp\\broman-folio\\Source Code\\code\\index.html",
               "RelativeToolTip": "Source Code\\code\\index.html",
-              "ViewState": "AQIAADIBAAAAAAAAAAAkwGkBAAAdAAAA",
+              "ViewState": "AQIAAOgBAAAAAAAAAAAxwPcBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-10-01T15:52:56.242Z",
               "EditorCaption": ""
@@ -288,7 +288,7 @@
           ]
         },
         {
-          "DockedWidth": 170,
+          "DockedWidth": 127,
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -299,7 +299,7 @@
               "RelativeDocumentMoniker": "Source Code\\code\\css\\global.css",
               "ToolTip": "D:\\FileHistory\\roman\\DESKTOP-G5BNVEG\\Data\\C\\Users\\roman\\bran-roman.github.io - copy2\\broman-portfolio-revamp\\broman-folio\\Source Code\\code\\css\\global.css",
               "RelativeToolTip": "Source Code\\code\\css\\global.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAPAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAD8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-10-04T17:32:48.045Z",
               "EditorCaption": ""
@@ -312,7 +312,7 @@
               "RelativeDocumentMoniker": "Source Code\\code\\css\\projects.css",
               "ToolTip": "D:\\FileHistory\\roman\\DESKTOP-G5BNVEG\\Data\\C\\Users\\roman\\bran-roman.github.io - copy2\\broman-portfolio-revamp\\broman-folio\\Source Code\\code\\css\\projects.css",
               "RelativeToolTip": "Source Code\\code\\css\\projects.css",
-              "ViewState": "AQIAAGAAAAAAAAAAAAAAAJMAAAAJAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswB8AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-10-03T21:56:04.024Z",
               "EditorCaption": ""
