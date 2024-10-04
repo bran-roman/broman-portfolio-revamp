@@ -41,7 +41,7 @@ section.card {
   color: var(--color-text);
   text-transform: uppercase;
   font-family: var(--font-secondary);
-  font-size: 40px;
+  font-size: 26px;
   line-height: 100%;
 }
 
@@ -67,6 +67,112 @@ section.card {
   display: flex;
   gap: 1em;
 }
+
+.project-img img {
+    object-fit: cover;
+    object-position: center;
+    filter: grayscale(1);
+}
+
+.project-img img#century {
+    object-position: center left;
+}
+
+.project-content {
+
+}
+
+.project-list {
+    padding: 0;
+    margin: 50px 0;
+    list-style-type: none;
+}
+
+.project-list li {
+    background: #181818;
+    margin: 2px auto;
+    padding: 25px;
+    cursor: pointer;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    transition: 0.2s;
+}
+
+.project-list li:hover {
+    margin: 20px auto;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    transform: scale(1.05);
+}
+
+.project-list li a {
+    font-size: 1.5rem;
+}
+
+/*------------------------
+    ACCORDING STYLING
+-------------------------*/
+.accordion:hover .accordion-item:hover .accordion-item-content,
+.accordion .accordion-item--default .accordion-item-content {
+    height: 8em;
+}
+
+.accordion-item-content,
+.accordion:hover .accordion-item-content {
+    height: 0;
+    overflow: hidden;
+    transition: height 0.5s;
+}
+
+.accordion {
+    padding: 0;
+    margin: 0 auto;
+    
+}
+
+    .accordion .accordion-item {
+        background-color: #181818;
+        border-bottom: 1px solid #666;
+        margin: 2px auto;
+        padding: 25px;
+        cursor: pointer;
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+        transition: 0.2s;
+        color: #eee;
+    }
+
+        .accordion .accordion-item:hover {
+            margin: 20px auto;
+            box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+            transform: scale(1.05);
+        }
+
+    .accordion h1 {
+        font-size: 1.5rem;
+        margin: 0;
+    }
+
+    .accordion p {
+        
+    }
+
+
+    .accordion .accordion-item:nth-child(1) {
+       
+    }
+
+    .accordion .accordion-item:nth-child(2) {
+      
+    }
+
+    .accordion .accordion-item:nth-child(3) {
+        
+    }
+
+    .accordion .accordion-item:nth-child(4) {
+       
+    }
+
 
 .cta {
   flex: 1;
