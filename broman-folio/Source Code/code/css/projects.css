@@ -113,7 +113,7 @@ section.card {
 -------------------------*/
 .accordion:hover .accordion-item:hover .accordion-item-content,
 .accordion .accordion-item--default .accordion-item-content {
-    height: 8em;
+    height: 12rem;
 }
 
 .accordion-item-content,
@@ -153,6 +153,7 @@ section.card {
     }
 
     .accordion p {
+        font-size: .9rem;
         
     }
 
